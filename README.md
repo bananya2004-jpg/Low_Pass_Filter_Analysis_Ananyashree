@@ -9,6 +9,7 @@ To study and analyze the frequency response of an RC Low Pass Filter.
 To observe the attenuation behavior beyond the cutoff frequency (1 kHz).
 To calculate the gain in decibels (dB) for multiple frequencies.
 To verify that the filter allows low frequencies to pass and attenuates higher frequencies.
+
 ⚙️ Experimental Steps
 
 Part 1: Signal Generation
