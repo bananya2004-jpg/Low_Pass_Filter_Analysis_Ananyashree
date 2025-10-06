@@ -56,11 +56,7 @@ The experimental curve matches the theoretical low-pass response.
 
 Part 6: Formula Reference
 $$
-f_{c} = \frac{1}{2\pi R C}
-$$
-
-$$
-\mathrm{Gain\ (dB)} = 20 \log_{10}\!\left(\frac{V_{\text{out}}}{V_{\text{in}}}\right)
+\mathrm{Gain\ (dB)} = 20 \log_{10}\left(\frac{V_{\text{out}}}{V_{\text{in}}}\right)
 $$
 
 ✅ Outcome
