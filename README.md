@@ -4,20 +4,6 @@
 This repository documents the analysis of a Low Pass Filter (LPF) circuit using the Digilent WaveForms tools.
 The goal is to experimentally verify the frequency response of an RC low-pass filter by varying the input signal frequency and measuring the corresponding output amplitude.
 
-🗂️ Repository Structure
-low-pass-filter-analysis-ananyashree/
-│
-├── data
-│   └── data_measurements.csv               # Recorded measurements and calculated gain
-│
-├── images
-│   ├── WaveForms_Lab_Assignment_2a   # The doc contains all the related images and plot│   
-│ 
-├── scripts
-│   └── default.wf            # Script in waveforms used to generate sine wave
-│
-└── README.md                      # Assignment documentation
-
 🎯 Assignment Objectives
 To study and analyze the frequency response of an RC Low Pass Filter.
 To observe the attenuation behavior beyond the cutoff frequency (1 kHz).
