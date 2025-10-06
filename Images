@@ -1,0 +1,25 @@
+This folder contains simulation results and plots for a Low Pass Filter (LPF) analyzed over different input frequencies ranging from 100 Hz to 10 kHz.
+The designed LPF has a cutoff frequency of 1 kHz.
+
+Objective
+
+To analyze how the LPF attenuates signals beyond its cutoff frequency and verify its frequency response characteristics.
+
+Details
+
+1. Filter type: Passive RC Low Pass Filter
+2. Cutoff Frequency (fc): 1 kHz
+3. Frequency range tested: 100 Hz, 500 Hz, 1 kHz, 2 kHz, 5 kHz, 10 kHz
+
+Observations:
+
+1. At lower frequencies (< 1 kHz), output ≈ input (minimal attenuation).
+2. Around 1 kHz, output starts to drop (−3 dB point).
+3. Beyond 1 kHz, higher frequency components are significantly attenuated.
+4. Included Plots
+5. Input vs. Output waveforms for each test frequency
+6. Magnitude response (Gain vs. Frequency)
+7. Phase response (optional, if you’ve plotted it)
+
+Conclusion
+The observed results confirm that the LPF effectively allows low-frequency signals to pass while attenuating signals above the 1 kHz cutoff, consistent with theoretical expectations.
