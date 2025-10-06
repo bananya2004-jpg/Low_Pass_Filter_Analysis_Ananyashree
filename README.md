@@ -42,6 +42,7 @@ The -3 dB point around 1 kHz marks the boundary between the passband and stopban
 The experimental curve matches the theoretical low-pass response.
 
 Part 6: Formula Reference
+
 $$
 \mathrm{Gain\ (dB)} = 20 \log_{10}\left(\frac{V_{\text{out}}}{V_{\text{in}}}\right)
 $$
